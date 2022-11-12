@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm IRON MAN FF</h1>
 <h3 align="center">Just a small coder</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=900&size=35&duration=4000&pause=950&color=FF0000&center=true&lines=IRON+MAN+FF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=900&size=35&duration=3000&pause=1050&color=87FF21&center=true&lines=CODER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1050&color=FF0000&center=true&lines=HTML;PYTHON;TURTLE+GRAPICS;ETC" alt="Typing SVG" /></a>ru
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironman444ff" alt="ironman444ff" /></a> </p>
 
@@ -12,6 +15,8 @@
 - 📫 How to reach me **Ironmanwasgone@gmail.com**
 
 - ⚡ Fun fact **Im 15 years old**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=900&size=35&duration=2000&pause=800&color=FFF744&lines=ABOUT+ME+%3A-(" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=900&size=15&duration=2000&pause=300&color=FF0000&center=true&lines=EVERY+DAY+WHEN+I+WAKE+UP+IM+IN+FUKING+PAIN+AGAIN" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
