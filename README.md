@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironman444ff" alt="ironman444ff" /></a> </p>
 
-- 🌱 I’m currently learning **Html**
+- 🌱 I’m currently learning **In school**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IRONMAN444FF?tab=repositories](https://github.com/IRONMAN444FF?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/IRONMAN444FF?tab=repositories)
 
 - 💬 Ask me about **HTML,Python anything😂**
 
