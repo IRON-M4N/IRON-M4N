@@ -2,7 +2,7 @@
 <h3 align="center">Just a small coder</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=900&size=35&duration=4000&pause=950&color=FF0000&center=true&lines=IRON+MAN+FF" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=900&size=35&duration=3000&pause=1050&color=87FF21&center=true&lines=CODER" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1050&color=FF0000&center=true&lines=HTML;PYTHON;TURTLE+GRAPICS;ETC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=600&pause=600&color=0000FF&center=true&lines=HTML;PYTHON;TURTLE+GRAPICS;ETC" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironman444ff" alt="ironman444ff" /></a> </p>
 
