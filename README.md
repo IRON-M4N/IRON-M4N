@@ -27,7 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ironman444ff&show_icons=true&theme=dark&title_color=ff0000&text_color=00ff00&hide_border=true&locale=en&layout=compact" alt="ironman444ff" /></p>
 <h4><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=900&size=35&duration=2000&pause=800&color=FFF744&lines=ABOUT+ME+%3A-(" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=900&size=15&duration=2000&pause=300&color=FF0000&center=true&lines=EVERY+DAY+WHEN+I+WAKE+UP+IM+IN+FUKING+PAIN+AGAIN" alt="Typing SVG" /></a>
-<img src="https://activity-graph.herokuapp.com/graph?username=IRONMAN444FF&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
-<p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
