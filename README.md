@@ -31,7 +31,7 @@
 
 <br>
 <div align="center">
-    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h1>
+    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
 </div>
 <p align='center'>
   <a href="https://ironmanff.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
@@ -40,4 +40,7 @@
     <a href="https://wa.me/41782221168"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
-
+<div align="center">
+    <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
+</div>
+<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
