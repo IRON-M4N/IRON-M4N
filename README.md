@@ -34,3 +34,6 @@
   <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
   <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
 </p>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y7ochpzlu2z4jpm3uw4ygr5ohi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
