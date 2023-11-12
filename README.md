@@ -6,7 +6,7 @@
   
 ![Alt Text](./cid-kagenou-eminence-in-shadow.gif)
 
-<h2 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
+<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
 <div align="center">
   <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
@@ -25,3 +25,12 @@
       Gaming,
       Reading</dd>
 </dl>
+<br>
+<div align="center">
+    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h1>
+</div>
+<p align='center'>
+  <a href="https://ironmanff.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+</p>
