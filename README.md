@@ -40,6 +40,18 @@
     <a href="https://wa.me/41782221168"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
+
+<div align="center">
+    <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ironm4n">
+    <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="60" width="230" style="margin-top: 10px;">
+  </a>
+</div>
+
+
+<br>
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
