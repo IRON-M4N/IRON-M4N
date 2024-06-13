@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![Iron Man](./cid-kagenou-eminence-in-shadow.gif)
+![Iron Man](./shadow.gif)
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
