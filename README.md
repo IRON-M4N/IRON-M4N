@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![Iron Man](./shadow.gif)
+![Iron Man](./chibi.gif)
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
