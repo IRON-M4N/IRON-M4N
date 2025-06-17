@@ -29,6 +29,36 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
 
+
+<div align="center">
+  <h2>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼</h2>
+</div>
+
+
+<p align="center">
+  <img src="https://neonicons.ironman.my.id/icon/javascript?size=38" alt="JavaScript" />
+  <img src="https://neonicons.ironman.my.id/icon/python?size=38" alt="Python" />
+  <img src="https://neonicons.ironman.my.id/icon/ruby?size=38" alt="Ruby" />
+  <img src="https://neonicons.ironman.my.id/icon/php?size=38" alt="PHP" />
+  <img src="https://neonicons.ironman.my.id/icon/bash?size=38" alt="Bash" />
+  <img src="https://neonicons.ironman.my.id/icon/mysql?size=38" alt="MySQL" />
+  <img src="https://neonicons.ironman.my.id/icon/latex?size=38" alt="LaTeX" />
+</p>
+
+<p align="center">
+  <img src="https://neonicons.ironman.my.id/icon/express?size=37" alt="Express" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/nextjs?size=37" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/react?size=37" alt="React" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/threejs?size=37" alt="Three.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/fastify?size=37" alt="Fastify" />
+</p>
+
+<p align="center">
+  <img src="https://neonicons.ironman.my.id/icon/rails?size=37" alt="Rails" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/krakenjs?size=37" alt="Kraken.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/nodejs?size=37" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/flask?size=37" alt="Flask" />
+</p>
 <br>
 <div align="center">
     <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
