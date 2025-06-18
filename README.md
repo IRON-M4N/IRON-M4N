@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://neonicons.ironman.my.id/icon/javascript?size=38" alt="JavaScript" />
   <img src="https://neonicons.ironman.my.id/icon/python?size=38" alt="Python" />
-  <img src="https://neonicons.ironman.my.id/icon/ruby?size=38" alt="Ruby" />
+  <img src="https://neonicons.ironman.my.id/icon/ruby?size=38&fek=5" alt="Ruby" />
   <img src="https://neonicons.ironman.my.id/icon/php?size=38" alt="PHP" />
   <img src="https://neonicons.ironman.my.id/icon/bash?size=38" alt="Bash" />
   <img src="https://neonicons.ironman.my.id/icon/mysql?size=38" alt="MySQL" />
