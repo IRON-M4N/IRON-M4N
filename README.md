@@ -36,13 +36,14 @@
 
 
 <p align="center">
-  <img src="https://neonicons.ironman.my.id/icon/javascript?size=38" alt="JavaScript" />
-  <img src="https://neonicons.ironman.my.id/icon/python?size=38" alt="Python" />
-  <img src="https://neonicons.ironman.my.id/icon/ruby?size=38&fek=5" alt="Ruby" />
-  <img src="https://neonicons.ironman.my.id/icon/php?size=38" alt="PHP" />
-  <img src="https://neonicons.ironman.my.id/icon/bash?size=38" alt="Bash" />
-  <img src="https://neonicons.ironman.my.id/icon/mysql?size=38" alt="MySQL" />
-  <img src="https://neonicons.ironman.my.id/icon/latex?size=38" alt="LaTeX" />
+  <img src="https://neonicons.ironman.my.id/icon/javascript?size=37" alt="JavaScript" />
+  <img src="https://neonicons.ironman.my.id/icon/typescript?size=37" alt="Typescript" />
+  <img src="https://neonicons.ironman.my.id/icon/python?size=37" alt="Python" />
+  <img src="https://neonicons.ironman.my.id/icon/ruby?size=37&fek=5" alt="Ruby" />
+  <img src="https://neonicons.ironman.my.id/icon/php?size=37" alt="PHP" />
+  <img src="https://neonicons.ironman.my.id/icon/bash?size=37" alt="Bash" />
+  <img src="https://neonicons.ironman.my.id/icon/mysql?size=37" alt="MySQL" />
+  <img src="https://neonicons.ironman.my.id/icon/latex?size=37" alt="LaTeX" />
 </p>
 
 <p align="center">
