@@ -36,29 +36,29 @@
 
 
 <p align="center">
-  <img src="https://neonicons.ironman.biz.id/icon/javascript?size=37" alt="JavaScript" />
-  <img src="https://neonicons.ironman.biz.id/icon/typescript?size=37" alt="Typescript" />
-  <img src="https://neonicons.ironman.biz.id/icon/python?size=37" alt="Python" />
-  <img src="https://neonicons.ironman.biz.id/icon/ruby?size=37&fek=5" alt="Ruby" />
-  <img src="https://neonicons.ironman.biz.id/icon/php?size=37" alt="PHP" />
-  <img src="https://neonicons.ironman.biz.id/icon/bash?size=37" alt="Bash" />
-  <img src="https://neonicons.ironman.biz.id/icon/mysql?size=37" alt="MySQL" />
-  <img src="https://neonicons.ironman.biz.id/icon/latex?size=37" alt="LaTeX" />
+  <img src="https://neonicons.ironmanxd.site/icon/javascript?size=37" alt="JavaScript" />
+  <img src="https://neonicons.ironmanxd.site/icon/typescript?size=37" alt="Typescript" />
+  <img src="https://neonicons.ironmanxd.site/icon/python?size=37" alt="Python" />
+  <img src="https://neonicons.ironmanxd.site/icon/ruby?size=37&fek=5" alt="Ruby" />
+  <img src="https://neonicons.ironmanxd.site/icon/php?size=37" alt="PHP" />
+  <img src="https://neonicons.ironmanxd.site/icon/bash?size=37" alt="Bash" />
+  <img src="https://neonicons.ironmanxd.site/icon/mysql?size=37" alt="MySQL" />
+  <img src="https://neonicons.ironmanxd.site/icon/latex?size=37" alt="LaTeX" />
 </p>
 
 <p align="center">
-  <img src="https://neonicons.ironman.biz.id/icon/express?size=37" alt="Express" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/nextjs?size=37" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/react?size=37" alt="React" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/threejs?size=37" alt="Three.js" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/fastify?size=37" alt="Fastify" />
+  <img src="https://neonicons.ironmanxd.site/icon/express?size=37" alt="Express" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/nextjs?size=37" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/react?size=37" alt="React" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/threejs?size=37" alt="Three.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/fastify?size=37" alt="Fastify" />
 </p>
 
 <p align="center">
-  <img src="https://neonicons.ironman.biz.id/icon/rails?size=37" alt="Rails" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/krakenjs?size=37" alt="Kraken.js" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/nodejs?size=37" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://neonicons.ironman.biz.id/icon/flask?size=37" alt="Flask" />
+  <img src="https://neonicons.ironmanxd.site/icon/rails?size=37" alt="Rails" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/krakenjs?size=37" alt="Kraken.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/nodejs?size=37" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/flask?size=37" alt="Flask" />
 </p>
 <br>
 <div align="center">
